@@ -3,7 +3,12 @@
 This project is based on 2 case-studies: Vote Prediction and Text Analysis. The first project is to predict which party a citizen is going to vote for on the basis of their age and according to the answers given by the citizens to the questions asked in a survey conducted. The second project is based on the analysis of the inaugural U.S.A. Presidential speeches. One has to draw inferences based on the analysis done on these speeches.
 
 ## Skills and Tools
-    Text Mining Analytics, K Nearest Neighbour - Naive Bayes, Ensemble Techniques, Logistic Regression - Linear Discriminant Analysis
+
+    - Text Mining Analytics
+    - K Nearest Neighbour
+    - Naive Bayes
+    - Ensemble Techniques
+    - Logistic Regression - Linear Discriminant Analysis
 
 ## Case study-1: Model Building
 You are hired by one of the leading news channel CNBE who wants to analyze recent elections. This survey was conducted on 1525 voters with 9 variables. You have to build a model, to predict which party a voter will vote for on the basis of the given information, to create an exit poll that will help in predicting overall win and seats covered by a particular party.
